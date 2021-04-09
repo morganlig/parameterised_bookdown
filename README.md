@@ -2,3 +2,5 @@ README
 
 Run `run.R` to generate a book from `parameterised_report.Rmd` with an `index.Rmd` 
 and one `child_document.Rmd`. Only packages needed are `xfun`, `rmarkdown` and `bookdown`.
+
+All credit goes to [Zachary Waller](https://github.com/zachary-waller).
